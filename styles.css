@@ -1,1 +1,261 @@
-{"errors":[],"warnings":[{"line":"38","level":"0","message":"Property -webkit-xxx-large is an unknown vendor extension","type":"vendor-extension","uri":"file://localhost/TextArea"},{"line":"85","level":"2","message":"You have no background-color set (or background-color is set to transparent) but you have set a color. Make sure that cascading of colors keeps the text reasonably legible.","type":"no-background-color","uri":"file://localhost/TextArea"},{"line":"89","level":"2","message":"You have no background-color set (or background-color is set to transparent) but you have set a color. Make sure that cascading of colors keeps the text reasonably legible.","type":"no-background-color","uri":"file://localhost/TextArea"},{"line":"92","level":"2","message":"You have no background-color set (or background-color is set to transparent) but you have set a color. Make sure that cascading of colors keeps the text reasonably legible.","type":"no-background-color","uri":"file://localhost/TextArea"},{"line":"96","level":"2","message":"You have no background-color set (or background-color is set to transparent) but you have set a color. Make sure that cascading of colors keeps the text reasonably legible.","type":"no-background-color","uri":"file://localhost/TextArea"},{"line":"99","level":"2","message":"You have no background-color set (or background-color is set to transparent) but you have set a color. Make sure that cascading of colors keeps the text reasonably legible.","type":"no-background-color","uri":"file://localhost/TextArea"},{"line":"103","level":"2","message":"You have no background-color set (or background-color is set to transparent) but you have set a color. Make sure that cascading of colors keeps the text reasonably legible.","type":"no-background-color","uri":"file://localhost/TextArea"},{"line":"106","level":"0","message":"Property -webkit-xxx-large is an unknown vendor extension","type":"vendor-extension","uri":"file://localhost/TextArea"},{"line":"126","level":"2","message":"You have no color set (or color is set to transparent) but you have set a background-color. Make sure that cascading of colors keeps the text reasonably legible.","type":"no-color","uri":"file://localhost/TextArea"},{"line":"130","level":"2","message":"You have no background-color set (or background-color is set to transparent) but you have set a color. Make sure that cascading of colors keeps the text reasonably legible.","type":"no-background-color","uri":"file://localhost/TextArea"},{"line":"140","level":"2","message":"You have no background-color set (or background-color is set to transparent) but you have set a color. Make sure that cascading of colors keeps the text reasonably legible.","type":"no-background-color","uri":"file://localhost/TextArea"},{"line":"150","level":"2","message":"You have no color set (or color is set to transparent) but you have set a background-color. Make sure that cascading of colors keeps the text reasonably legible.","type":"no-color","uri":"file://localhost/TextArea"},{"line":"180","level":"2","message":"Redefinition of height","context":".logInPage","type":"redefinition","uri":"file://localhost/TextArea"},{"line":"181","level":"2","message":"Redefinition of width","context":".logInPage","type":"redefinition","uri":"file://localhost/TextArea"},{"line":"182","level":"2","message":"Redefinition of margin-left","type":"redefinition","uri":"file://localhost/TextArea"},{"line":"187","level":"2","message":"Redefinition of padding-top","context":".logInPage h2","type":"redefinition","uri":"file://localhost/TextArea"},{"line":"189","level":"2","message":"Redefinition of font-size","context":".logInPage p","type":"redefinition","uri":"file://localhost/TextArea"},{"line":"191","level":"2","message":"Redefinition of margin-left","context":".logInPage h2","type":"redefinition","uri":"file://localhost/TextArea"},{"line":"193","level":"2","message":"Redefinition of width","context":".logInPage form.form-inline","type":"redefinition","uri":"file://localhost/TextArea"},{"line":"194","level":"2","message":"Redefinition of margin-left","context":".logInPage form.form-inline","type":"redefinition","uri":"file://localhost/TextArea"},{"line":"195","level":"2","message":"Redefinition of margin-top","context":".logInPage form.form-inline","type":"redefinition","uri":"file://localhost/TextArea"},{"line":"197","level":"2","message":"Redefinition of margin-left","context":".logInPage button.signIn","type":"redefinition","uri":"file://localhost/TextArea"},{"line":"199","level":"2","message":"Redefinition of margin-top","context":".logInPage button.signIn","type":"redefinition","uri":"file://localhost/TextArea"},{"line":"201","level":"2","message":"Redefinition of margin-right","context":".logInPage div.form-group","type":"redefinition","uri":"file://localhost/TextArea"},{"line":"202","level":"2","message":"Redefinition of margin-bottom","context":".logInPage div.form-group","type":"redefinition","uri":"file://localhost/TextArea"},{"line":"203","level":"2","message":"Redefinition of margin-top","context":".logInPage div.form-group","type":"redefinition","uri":"file://localhost/TextArea"},{"line":"205","level":"2","message":"Redefinition of width","context":"div.mainPage","type":"redefinition","uri":"file://localhost/TextArea"},{"line":"206","level":"2","message":"Redefinition of margin-bottom","type":"redefinition","uri":"file://localhost/TextArea"},{"line":"206","level":"2","message":"Redefinition of margin-left","type":"redefinition","uri":"file://localhost/TextArea"},{"line":"206","level":"2","message":"Redefinition of margin-top","type":"redefinition","uri":"file://localhost/TextArea"},{"line":"206","level":"2","message":"Redefinition of margin-right","type":"redefinition","uri":"file://localhost/TextArea"},{"line":"208","level":"2","message":"Redefinition of height","context":"div.mainPage","type":"redefinition","uri":"file://localhost/TextArea"},{"line":"210","level":"2","message":"Redefinition of margin-right","context":"div.mainPage .socialBoxes","type":"redefinition","uri":"file://localhost/TextArea"},{"line":"211","level":"2","message":"Redefinition of margin-top","context":"div.mainPage .socialBoxes","type":"redefinition","uri":"file://localhost/TextArea"},{"line":"233","level":"2","message":"Redefinition of width","context":"div.mainPage div.restroomRating","type":"redefinition","uri":"file://localhost/TextArea"},{"line":"234","level":"2","message":"Redefinition of margin-left","context":"div.mainPage div.restroomRating","type":"redefinition","uri":"file://localhost/TextArea"},{"line":"239","level":"2","message":"Redefinition of margin-left","context":"div.mainPage img","type":"redefinition","uri":"file://localhost/TextArea"},{"line":"252","level":"2","message":"Redefinition of position","context":"div.mainPage div#map","type":"redefinition","uri":"file://localhost/TextArea"},{"line":"253","level":"2","message":"Redefinition of width","context":"div.mainPage div#map","type":"redefinition","uri":"file://localhost/TextArea"},{"line":"254","level":"2","message":"Redefinition of height","context":"div.mainPage div#map","type":"redefinition","uri":"file://localhost/TextArea"},{"line":"255","level":"2","message":"Redefinition of margin-left","context":"div.mainPage div#map","type":"redefinition","uri":"file://localhost/TextArea"},{"line":"256","level":"2","message":"Redefinition of bottom","context":"div.mainPage div#map","type":"redefinition","uri":"file://localhost/TextArea"},{"line":"259","level":"2","message":"Redefinition of margin-bottom","context":"div.mainPage fieldset.form-group","type":"redefinition","uri":"file://localhost/TextArea"},{"line":"0","level":"2","message":"Redefinition of border-top-left-radius","type":"redefinition","uri":"file://localhost/TextArea"},{"line":"0","level":"2","message":"Redefinition of border-top-right-radius","type":"redefinition","uri":"file://localhost/TextArea"},{"line":"0","level":"2","message":"Redefinition of border-bottom-left-radius","type":"redefinition","uri":"file://localhost/TextArea"},{"line":"0","level":"2","message":"Redefinition of border-bottom-right-radius","type":"redefinition","uri":"file://localhost/TextArea"},{"line":"0","level":"2","message":"Redefinition of border-top-left-radius","type":"redefinition","uri":"file://localhost/TextArea"},{"line":"0","level":"2","message":"Redefinition of border-top-right-radius","type":"redefinition","uri":"file://localhost/TextArea"},{"line":"0","level":"2","message":"Redefinition of border-bottom-left-radius","type":"redefinition","uri":"file://localhost/TextArea"},{"line":"0","level":"2","message":"Redefinition of border-bottom-right-radius","type":"redefinition","uri":"file://localhost/TextArea"}]}
+* {
+  font-family: 'Shadows Into Light Two', cursive; }
+
+html {
+  height: 100%;
+  margin: -15px; }
+  html body {
+    height: 100%; }
+    html body .mainContainer {
+      height: 125%; }
+      html body .mainContainer div#bg-image {
+        height: 100%;
+        background-image: url("images/bathroomBackground.jpg"); }
+        html body .mainContainer div#bg-image header {
+          height: 5%; }
+      html body .mainContainer h2, html body .mainContainer p {
+        text-align: center; }
+      html body .mainContainer h2 {
+        padding-top: 2%;
+        text-decoration: underline; }
+      html body .mainContainer footer {
+        width: 100%;
+        height: 10%; }
+        html body .mainContainer footer h5 {
+          text-align: center;
+          vertical-align: middle; }
+
+.logInPage {
+  background-color: rgba(100, 149, 244, 0.78);
+  box-shadow: 10px 10px 5px 0px rgba(140, 137, 140, 0.65);
+  color: #FFF;
+  height: 50%;
+  width: 50%;
+  border-radius: 84px;
+  margin-left: 25%; }
+  .logInPage h2 {
+    text-align: center;
+    font-size: -webkit-xxx-large;
+    padding-top: 2%;
+    margin-left: 0%; }
+  .logInPage p {
+    font-size: x-large; }
+  .logInPage form.form-inline {
+    text-align: center;
+    margin-top: 3%;
+    width: 35%;
+    height: 47%;
+    margin-left: 34%; }
+  .logInPage div.form-group {
+    margin-right: 16%;
+    margin-bottom: 2%;
+    margin-top: 10%; }
+  .logInPage input#Username.form-control {
+    width: 112%;
+    border: solid gray 2px; }
+  .logInPage input#Password.form-control {
+    margin-left: 1%;
+    width: 112%;
+    border: solid gray 2px; }
+  .logInPage button.signIn {
+    width: 66%;
+    margin-top: 7%;
+    color: #FFF;
+    margin-left: -5%;
+    margin-bottom: 12%;
+    background-color: #3B5998;
+    border-radius: 10px; }
+    .logInPage button.signIn:hover {
+      opacity: .8;
+      cursor: pointer; }
+
+div.mainPage {
+  color: #FFF;
+  background-color: rgba(100, 149, 244, 0.78);
+  box-shadow: 10px 10px 5px 0px rgba(140, 137, 140, 0.65);
+  width: 80%;
+  margin: 0 auto;
+  height: 90%;
+  border-radius: 10px; }
+  div.mainPage .socialBoxes {
+    float: right;
+    margin-top: 2%;
+    margin-right: 3%; }
+    div.mainPage .socialBoxes .fa-facebook-square {
+      color: #3b5998;
+      top: 0;
+      right: .5em; }
+      div.mainPage .socialBoxes .fa-facebook-square:hover {
+        color: #add8e6;
+        opacity: .8; }
+    div.mainPage .socialBoxes .fa-twitter-square {
+      color: #00aced;
+      top: 0;
+      left: -.3em; }
+      div.mainPage .socialBoxes .fa-twitter-square:hover {
+        color: #add8e6;
+        opacity: .4; }
+    div.mainPage .socialBoxes .fa-youtube-square {
+      color: #b31217;
+      top: 0;
+      left: -.2em; }
+      div.mainPage .socialBoxes .fa-youtube-square:hover {
+        color: #ffc0cb;
+        opacity: .4; }
+  div.mainPage h2 {
+    font-size: -webkit-xxx-large; }
+  div.mainPage p {
+    font-size: xx-large; }
+  div.mainPage div.userInputArea {
+    width: 30%;
+    margin-left: 11%;
+    margin-right: 0%;
+    margin-top: 5%; }
+  div.mainPage fieldset.form-group {
+    border: gray solid 2px;
+    margin-bottom: 7%; }
+  div.mainPage select#isClean.form-control {
+    border: solid gray 2px; }
+  div.mainPage textarea#exampleTextarea.form-control {
+    border: solid gray 2px; }
+  div.mainPage div.restroomRating {
+    width: 28%;
+    height: 15%;
+    margin-left: 12%;
+    margin-right: 0;
+    background-color: lightgray;
+    border-radius: 16px;
+    border: gray solid 2px; }
+  div.mainPage .logout {
+    color: #FFF;
+    float: right;
+    margin-top: 3%;
+    margin-right: 2%;
+    margin-left: -1%; }
+    div.mainPage .logout:hover {
+      opacity: .8;
+      text-decoration: underline;
+      cursor: pointer; }
+  div.mainPage h3 {
+    color: #FFF;
+    text-align: center;
+    font-size: large;
+    text-decoration: underline;
+    margin-top: 3%; }
+  div.mainPage img {
+    border-radius: 13px;
+    border: solid white 2px;
+    margin-left: 5%; }
+    div.mainPage img:hover {
+      background: gray;
+      opacity: .5;
+      cursor: pointer; }
+  div.mainPage button.btn-primary {
+    background-color: #3B5998;
+    color: #FFF;
+    border: #FFF solid 2px;
+    width: 10%;
+    position: absolute;
+    margin-left: 23%;
+    margin-top: 2%; }
+    div.mainPage button.btn-primary:hover {
+      opacity: .8;
+      cursor: pointer; }
+  div.mainPage div#map {
+    position: absolute;
+    width: 35%;
+    height: 57%;
+    margin-left: 41%;
+    bottom: 2%; }
+  div.mainPage h5 {
+    text-align: center; }
+
+@media (min-width: 320px) and (max-width: 767px) {
+  html body div.mainContainer {
+    height: 100%;
+    width: 100%; }
+  header {
+    height: 5%; }
+  .logInPage {
+    height: 53%;
+    width: 80%;
+    margin: 10% auto;
+    padding-top: 8%;
+    border-radius: 5px; }
+    .logInPage h2 {
+      font-size: xx-large;
+      padding-top: 0%; }
+    .logInPage p {
+      font-size: medium; }
+    .logInPage h2, .logInPage p {
+      margin-left: 3%; }
+    .logInPage form.form-inline {
+      width: 62%;
+      margin-left: 21%;
+      margin-top: 10%; }
+    .logInPage button.signIn {
+      margin-left: 0;
+      margin-right: 8%;
+      margin-top: 5%; }
+    .logInPage div.form-group {
+      margin-right: 16%;
+      margin-bottom: 2%;
+      margin-top: 9%; }
+  div.mainPage {
+    width: 80%;
+    margin: 0% auto;
+    border-radius: 5px;
+    height: 92%; }
+    div.mainPage .socialBoxes {
+      margin-right: 3%;
+      margin-top: 2%; }
+      div.mainPage .socialBoxes span {
+        font-size: 2em; }
+    div.mainPage h2, div.mainPage p {
+      display: none; }
+    div.mainPage .userInputArea {
+      width: 80%;
+      height: 40%;
+      margin: 5% -1% 0 10%; }
+    div.mainPage form.trackerForm {
+      width: 250%; }
+    div.mainPage .form-group-username {
+      width: 75%;
+      margin-left: 13%;
+      margin-top: 20%; }
+    div.mainPage .form-group-password {
+      width: 75%;
+      margin-left: 13%;
+      margin-top: 8%; }
+    div.mainPage #isClean {
+      margin-bottom: 3%; }
+    div.mainPage div.restroomRating {
+      width: 86%;
+      margin-left: 14%;
+      margin-top: 3%; }
+    div.mainPage h4 {
+      font-size: initial; }
+    div.mainPage img {
+      margin-left: 4%; }
+    div.mainPage button.btn.btn-primary {
+      float: right;
+      position: absolute;
+      border-radius: 10px;
+      margin-right: 1%;
+      margin-top: 2%;
+      margin-bottom: 6%;
+      margin-left: 47%;
+      width: 27%;
+      height: 28px; }
+    div.mainPage div#map {
+      border-radius: 5px;
+      position: absolute;
+      width: 69%;
+      height: 24%;
+      margin-left: 8%;
+      bottom: 7%;
+      margin-right: 10%; }
+    div.mainPage fieldset.form-group {
+      margin-bottom: 3%; }
+    div.mainPage footer h5 {
+      font-size: 10px; } }
